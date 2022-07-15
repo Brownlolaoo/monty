@@ -1,5 +1,3 @@
-Go to file
-
 #include "monty.h"
 
 /**
